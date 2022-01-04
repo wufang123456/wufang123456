@@ -1,3 +1,4 @@
+- @OSSDAO-ORG•AIRDROP-0xBd90C4602403DdC6c891E54dEbf9b269124aE1B9
 - 👋 Hi, I’m @wufang123456
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -7,5 +8,5 @@
 <!---
 wufang123456/wufang123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-@OSSDAO-ORG•AIRDROP-0xBd90C4602403DdC6c891E54dEbf9b269124aE1B9
+
 
